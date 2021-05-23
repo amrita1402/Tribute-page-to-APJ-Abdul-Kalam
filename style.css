@@ -1,24 +1,23 @@
-html{
+html {
   font-size: 10px;
 }
-body{
-  font-size: 2.0rem;
+body {
+  font-size: 2rem;
   line-height: 1.7;
-  text-align:center;
+  text-align: center;
   color: #333;
   margin: 0;
 }
-h1
-{
-  font-size: 4.0rem;
+h1 {
+  font-size: 4rem;
 }
-h2{
+h2 {
   font-size: 2.25rem;
 }
 
 a {
-    text-align: center;
-    color: white;
+  text-align: center;
+  color: white;
 }
 
 a:visited {
@@ -46,7 +45,6 @@ ul {
   text-align: left;
   line-height: 1.5;
 }
-li
-{
+li {
   margin: 15px;
 }
